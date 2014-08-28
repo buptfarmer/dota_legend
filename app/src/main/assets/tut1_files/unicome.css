@@ -1,0 +1,20 @@
+@charset "utf-8"
+
+html { font-size: 62.5%;}
+
+body{background: #e4edf3;width: 100%;margin: 0 auto;max-width: 960px;font: 宋体;}
+
+.logo{background: url(./13953704553576.jpg) no-repeat;background-size:100% auto ; padding-bottom: 30%;width: 100%;}
+.logo2{background: url(./13953704378845.jpg) no-repeat;background-size:100% auto ; padding-bottom: 40%;width: 100%;}
+article{width: 100%;}
+article .title{background: #eef6f9;text-align: left;padding:10px 0 10px 6%;border-bottom: 1px solid #cfdfe9;color: #5f727c;}
+article .content{width:100%;background: #e4edf3;padding-top: 10px;background-size:100% auto ; padding-bottom: 30%;width: 100%;}
+article .content .col{display: block; background: #fff;border: 1px solid #cee4f1;width: 85%;margin: 10px auto;padding: 1rem;text-decoration: none;color: #365562;}
+article .content .col:hover{border: 1px solid #86bbdc;}
+.sign{display:inline-block;background:#80c21f;border-radius: 30px; padding: 6px 15px;float: right;color: #fff;/*margin-top: 4px;*/line-height: 1.2rem;}
+.big_font{font-size: 1.7rem;}
+.mid_font{font-size: 1rem;}
+.small_font{font-size: 0.8rem;}
+
+
+
